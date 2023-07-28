@@ -271,11 +271,9 @@ h6,
     display: none;
   }
 }
-.boxxy {
-  width: 420px;
-}
+
 .member {
-  margin-left: -20%;
+  margin-left: 0;
   width: 300px;
   border-radius: 10%;
 }
